@@ -1,0 +1,29 @@
+Python cache
+
+pycache/
+*.py[cod]
+
+Virtual environments
+
+venv/
+.venv/
+env/
+
+Dataset files
+
+train.csv
+validation.csv
+test.csv
+
+Model artefacts
+
+*.joblib
+*.pkl
+
+Local environment files
+
+.env
+
+Jupyter checkpoints
+
+.ipynb_checkpoints/
